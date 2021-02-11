@@ -1,6 +1,8 @@
 # CatchFruit
 제한 시간 내에 떨어지는 과일들을 받아  점수를 채워 4단계를 클리어하는 바구니 게임 
 
+![Start](https://user-images.githubusercontent.com/59547151/107600897-70374100-6c68-11eb-88a6-7e3a9324ad2d.png)
+
 > 게임 처음 화면
 	S키 누름: 게임 시작
 	Q키 누름: 게임 종료
