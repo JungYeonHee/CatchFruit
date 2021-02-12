@@ -37,7 +37,7 @@
 	
 	Level 4: 30초가 되었을 때 100점 이상
 
-Made By [3조]
+Made By E.T(Experience Technology) [3조]
 
 팀장: 이지현
 
